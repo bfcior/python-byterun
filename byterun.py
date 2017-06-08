@@ -4,7 +4,7 @@ class Byterun:
         pass
 
     @staticmethod
-    def hex_string_decode(hex_string):
+    def hex_string_decompress(hex_string):
 
         arr = []
 
